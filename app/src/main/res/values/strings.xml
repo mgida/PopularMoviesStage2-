@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="Favourites">Favourites</string>
+    <string name="tv_error">failed,check your connection and try again</string>
+    <string name="Date">Release Date:</string>
+    <string name="Rate">Rate:</string>
+    <string name="Trailers"></string>
+
+
+</resources>
